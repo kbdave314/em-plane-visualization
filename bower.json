@@ -1,0 +1,20 @@
+{
+  "name": "vectorviz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0",
+    "purescript-math": "^2.0.0",
+    "purescript-mathbox": "^0.4.0",
+    "mathbox": "^0.0.5",
+    "purescript-tuples": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
