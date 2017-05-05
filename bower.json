@@ -1,18 +1,19 @@
 {
-  "name": "vectorviz",
+  "name": "em-plane-visualization",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "output"
+    "output",
+    "production"
   ],
   "dependencies": {
     "purescript-prelude": "^3.0.0",
     "purescript-console": "^3.0.0",
     "purescript-math": "^2.0.0",
     "purescript-mathbox": "^0.4.0",
-    "mathbox": "^0.0.5",
-    "purescript-tuples": "^4.0.0"
+    "purescript-tuples": "^4.0.0",
+    "mathbox": "^0.0.5"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
